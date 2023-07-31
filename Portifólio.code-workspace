@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Portifólio"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../desafio.alura"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aluramidi"
+	}
+}
